@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# React + CSS3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with React.js and CSS3. It has a futuristic design made by AR Shakir
+link:https://www.arshakir.com/work
 
-## Available Scripts
+## Preview
+![20220317_172713](https://user-images.githubusercontent.com/90113061/158897507-7f09dd67-b9b3-44cb-b893-64ee5035e049.png)
+![20220317_172726](https://user-images.githubusercontent.com/90113061/158897515-0fa875bf-0b43-4d8b-ac6b-462a510e6a37.png)
+![20220317_172742](https://user-images.githubusercontent.com/90113061/158897522-34d17294-b79e-4196-9513-add827dfe4ca.png)
+![20220317_172802](https://user-images.githubusercontent.com/90113061/158897526-4d772999-d311-4639-9a0e-72abe9b8fd0a.png)
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
