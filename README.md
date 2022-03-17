@@ -4,10 +4,7 @@ This project was made with React.js and CSS3. It has a futuristic design made by
 link:https://www.arshakir.com/work
 
 ## Preview
-![20220317_173014](https://user-images.githubusercontent.com/90113061/158897770-30b49c61-e0c2-4448-adc4-c5ab2dc97129.png)
-![20220317_172726](https://user-images.githubusercontent.com/90113061/158897515-0fa875bf-0b43-4d8b-ac6b-462a510e6a37.png)
-![20220317_172742](https://user-images.githubusercontent.com/90113061/158897522-34d17294-b79e-4196-9513-add827dfe4ca.png)
-![20220317_173031](https://user-images.githubusercontent.com/90113061/158897856-175966de-8d2b-4136-9ebd-3b88f934304b.png)
+![](images/1.png)
 
 
 
